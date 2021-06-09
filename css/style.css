@@ -117,7 +117,7 @@ h1, h2, h3 {
 /* Comienzo de Section */
 
 .container-principal {
-    background-image: url(../images/Computer.jpeg);
+    background-image: url(images/Computer.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
